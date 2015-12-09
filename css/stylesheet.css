@@ -1,0 +1,135 @@
+﻿/*html, body {
+  font-family:'Arvo', sans-serif;
+  background: url('texture-greygrad.jpg');
+  background-color: #d8d2c9;
+
+  color: #888;
+  text-align: justify;
+
+  }
+*/
+  p{
+    /*font-weight:lighter;*/
+    font-size:15px;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%
+  }
+  
+  
+    font-size:15px;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%
+  }
+  
+  
+  a, a:visited {
+/*   #d23 was the read one   */
+  color: #00933B;
+  text-decoration: none;
+  -webkit-transition: color 0.15s linear;
+  -moz-transition: color 0.15s linear;
+
+  border-bottom: 1px dotted #fcc;
+  }
+
+a:hover {
+/*   color: #f78; */
+  color : #15bf59;
+  
+}
+  
+  #main {  
+  font-size : 15px;
+  width: 55%;
+  margin: 1px auto;
+  }
+  
+
+
+  h2{
+    font-size : 30px;
+    font-weight : 600;
+    
+  }
+  h1{
+    font-size : 35px;
+    font-weight : 800;
+    color : #d23;
+  }
+
+  table,td,tr{
+    border-collapse: collapse;
+    border : 3px solid white;
+    padding : 5px;
+    vertical-align: top;
+
+  }
+  
+  #boxtitle{
+    font-size : 22px;
+    color : #f8981d;
+    /*color: #f8981d;*/
+    font-family: 'Arvo';
+    font-weight: bold;
+    text-align: center;
+
+  }  
+
+  #archivetitle{
+    font-size : 22px;
+    color : #f8981d;
+    /*color: #f8981d;*/
+    font-family: 'Arvo';
+    font-weight: bold;
+    text-align: center;
+
+  } 
+
+ 
+
+  #boxtext{
+    font-size : 15px;
+    color : #000000;
+    /*color: #f8981d;*/
+    font-family: 'Arvo';
+    
+    text-align: justify;
+    vertical-align: bottom;
+    
+    
+  }
+
+  #formtext{
+    font-size:15px;
+    color : #ffffff;
+    font-family: 'Tahoma';
+    text-align : justify;
+    padding: 3%;
+
+  }
+
+    #titletext{
+    font-size: 26px;
+    font-family: 'Open Sans Condensed';
+    color : #fcfcfc;
+
+
+  }
+
+  #tinytext{
+    font-size:16px;
+  }
+
+  #avatar {
+  width: 128px;
+  height: 128px;
+  border-radius:         50%;
+  -moz-border-radius:    50%;
+  -webkit-border-radius: 50%;
+  background: #eeeeee url('logo.png') no-repeat;
+  background-size: 128px 128px;
+
+  margin-bottom: 30px;
+}
